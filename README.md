@@ -1,7 +1,7 @@
 # Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?
 
 ## Introduction
-This is the code repository for the paper [Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?](https://arxiv.org/abs/2212.12131), including code for calculating surprisal using autoregressive LMs from the [HuggingFace Transformers](https://huggingface.co/docs/transformers/index) library.
+This is the code repository for the paper [Why Does Surprisal From Larger Transformer-Based Language Models Provide a Poorer Fit to Human Reading Times?](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00548), including code for calculating surprisal using autoregressive LMs from the [HuggingFace Transformers](https://huggingface.co/docs/transformers/index) library.
 
 ## Setup
 Install the following major dependencies:
